@@ -1,1 +1,1 @@
-This is my assignment of prthon
+This is my assignment of python on pushed on github
