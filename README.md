@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # Prime Number and Favorite Numbers Program
 
 This program performs several operations based on user input of their favorite numbers:
@@ -56,3 +57,5 @@ else:
     print(f"The sum {total_sum} is not a prime number.")
 ```
 
+=======
+>>>>>>> 44b33d5bb8909b39a1c05c97eee6df53df0ed3f9
